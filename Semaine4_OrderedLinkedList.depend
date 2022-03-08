@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645539948 source:/home/margauxhanut/ProjectC/Semaine4_OrderedLinkedList/main.c
+	<stdio.h>
+	<stdlib.h>
+
